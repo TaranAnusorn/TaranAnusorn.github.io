@@ -12,7 +12,7 @@ permalink: /
 
 Greetings to all visitors, and welcome to my official page. This page contains information about my past and present, both works and interests. 
 
-[My Curriculum Vitae](/files/CV.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
+[My Curriculum Vitae](/pages/01_Home/CV.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -20,7 +20,11 @@ Greetings to all visitors, and welcome to my official page. This page contains i
 
 My name is Taran Anusorn, an electrical engineering graduate from [Department of Electrical Engineering](https://ee.eng.chula.ac.th/), [Faculty of Engineering](https://www.eng.chula.ac.th/th/), [Chulalongkorn University](https://www.chula.ac.th/en/). 
 
-My research interests include Terahertz (THz) technology, microwave and millimeter wave (mmWave) engineering, holographic surfaces, photonics, modern communication systems (both wired and wireless), and anything related to applications of electromagnetics.
+### My current research interests include 
+- Applied [Electromagnetics](https://en.wikipedia.org/wiki/Electromagnetism) and [Photonics](https://en.wikipedia.org/wiki/Photonics) in Various Systems
+- Terahertz ([THz](https://en.wikipedia.org/wiki/Terahertz_radiation)) Technology
+- [Microwave](https://en.wikipedia.org/wiki/Microwave_engineering) and [Millimeter Wave](https://en.wikipedia.org/wiki/Extremely_high_frequency) Engineering
+- Modern [Communication](https://en.wikipedia.org/wiki/Communications_system#:~:text=A%20communications%20system%20or%20communication,to%20form%20an%20integrated%20whole.) Systems
 
 ---
 
