@@ -8,7 +8,7 @@ permalink: /
 # Welcome to Taran Anusorn's homepage.
 {: .fs-9 }
 
-<img src="pages\01_Home\9E.jpg" alt="my_pic" style="width:500px;"/>
+<img src="pages\01_Home\9E.jpg" alt="Me" style="width:500px;"/>
 
 Greetings to all visitors, and welcome to my official page. This page contains information about my past and present, both works and interests. 
 
