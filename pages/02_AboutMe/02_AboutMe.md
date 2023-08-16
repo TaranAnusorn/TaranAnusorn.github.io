@@ -45,11 +45,12 @@ He then moved back to Hatyai and started his high school life in the Science and
 *Taran and his friends in front of the Mahawachirawut Building, 2023.*
 {: .fs-3 .fw-300 }
 
-IIn 2019, he again relocated to Bangkok, the capital city of Thailand, to start his undergraduate life at Chulalongkorn University. At this place, he learned many valuable lessons from both his academic and extracurricular pursuits. After four years of joy and inspiration, he obtained a bachelor’s degree with first-class honors in Electrical Engineering. His major was communication engineering, and his final-year project was "Design and Development of Reflecting Metasurfaces for 5G and Beyond Wireless Communication Systems" under the supervision of [Asst. Prof. Panuwat Janpugdee](https://ee.eng.chula.ac.th/panuwat-chanpakdee/), [Assoc. Prof. Suwit Kiravittaya](http://suwitkiravittaya.eng.chula.ac.th/main.html), and [Dr. Paramin Sangwongngam](https://scholar.google.com/citations?user=Aa_1hvAAAAAJ&hl=en) from [NECTEC](https://www.nectec.or.th/).
+In 2019, he again relocated to Bangkok, the capital city of Thailand, to start his undergraduate life at Chulalongkorn University. At this place, he learned many valuable lessons from both his academic and extracurricular pursuits. After four years of joy and inspiration, he obtained a bachelor’s degree with first-class honors in Electrical Engineering. His major was communication engineering, and his final-year project was "Design and Development of Reflecting Metasurfaces for 5G and Beyond Wireless Communication Systems" under the supervision of [Asst. Prof. Panuwat Janpugdee](https://ee.eng.chula.ac.th/panuwat-chanpakdee/), [Assoc. Prof. Suwit Kiravittaya](http://suwitkiravittaya.eng.chula.ac.th/main.html), and [Dr. Paramin Sangwongngam](https://scholar.google.com/citations?user=Aa_1hvAAAAAJ&hl=en) from [NECTEC](https://www.nectec.or.th/).
+
 
 ---
 
-## Research Life
+## Research Journey
 
 <img src="\pages\02_AboutMe\MicrowaveLab.jpg" alt="S-parameter measurement at Chulalongkorn University, 2023."/>
 *S-parameters measurement at Chulalongkorn University, 2023.*
@@ -59,7 +60,12 @@ Taran performed his first research work at the [National Security and Dual-Use T
 
 Electromagnetics has been Taran’s favorite subject since his time in the Physics Olympiad camp. As a senior electrical engineering student with a passion for research in mind, he then united his favor with his major in communication engineering by proposing the advancement of Terahertz devices for modern communication systems as his final-year project. Unfortunately, the essential equipment for the research on THz devices at the time was not available in Thailand. According to Dr. Paramin, the THz prototype had to be tested in the lab in Australia. Moreover, the full-wave simulation of such a high frequency requires a high computational resource and lots of time. For these reasons, the advisors were concerned that he, a newbie in this field, would not make it before graduation. So he then turned his attention to the millimeter wave ([mmWave](https://en.wikipedia.org/wiki/Extremely_high_frequency)).
 
-5G was one of the hottest technologies in 2022, and the mmWave band is a key enabler to unleash tremendous bandwidth and extremely high data rates. Since the wave with the higher frequency naturally possesses higher propagation and penetration losses, the mmWave signal must then be transmitted as a highly directional "beam", and thus a new problem arises: limited coverage due to the building's blockage. 
+5G was one of the hottest technologies in 2022, and the mmWave band is a key enabler to unleash tremendous bandwidth and extremely high data rates. Since the wave with the higher frequency naturally possesses higher propagation and penetration losses, the mmWave signal must then be transmitted as a highly directional beam. Thus, a new problem arises with limited coverage due to the building's blockage. One of the most effective solutions for this problem is creating a "new propagation path" that goes around obstacles, which became his first research project "[Dual-Polarized Phase-Gradient Reflecting Metasurface for 5G mmWave Coverage Improvement](/pages/02_AboutMe/2023198524.pdf)", which also was his final-year project for the graduation. 
+
+After completing his initial research study on the passive mmWave metasurface, he kept working toward his ultimate goal of conducting THz technology research. With kind support from P’Mo [Rungrat Viratikul](https://ieeexplore.ieee.org/author/37089424619), a Ph.D. student of Dr.Panuwat, Taran is now working on the development of the leaky-wave mechanism of the [THz Bragg fiber](https://ieeexplore.ieee.org/document/8233195) photonic crystal transmission line under the supervision of [Dr.Nutapong Somjit](https://eps.leeds.ac.uk/electronic-engineering/staff/627/dr-nutapong-somjit) at [the University of Leeds](https://eps.leeds.ac.uk/electronic-engineering). Moreover, under the guidance of [Prof.Danai Torrungrueng](https://ieeexplore.ieee.org/author/37298005500), Taran is also conducting another research project on the 
+miniaturization of the microwave component using the [theory of conjugately characteristic impedance](https://link.springer.com/chapter/10.1007/978-3-031-01539-7_2), sharpening both his research experience and his software simulation skills.
+ 
+*His spectacular journey has only just begun.*
 
 ---
 
@@ -69,4 +75,9 @@ Electromagnetics has been Taran’s favorite subject since his time in the Physi
 *The KH50 volunteer camp at Udon Thani, 2023.*
 {: .fs-3 .fw-300 }
 
-Despite a limitation from the [COVID-19](https://www.who.int/europe/emergencies/situations/covid-19) pandemic, he still managed to conduct multiple volunteer campaigns as a CSR core team member of the Engineering Student Committee ([ESC](https://www.facebook.com/escchula?locale=th_TH)) in the 2020 academic year, the president of the [Residence of Chulalongkorn University Volunteer Club](https://www.facebook.com/kaihor.chula?locale=th_TH) in the 2021 academic year, and the director of the KH50 volunteer camp in 2023, before his graduation. 
+Despite the tremendous advancement of modern technology, Thailand's *inequality* remains entrenched. In many rural areas, poverty is the root cause of a succession of problems, including a lack of educational opportunities, environmental issues, and quality of life. Instead of waiting for development from an unwieldy Thai government, many students gather up and commit to their volunteer projects with support from the university and the private sector.
+
+As a freshman at Chulalongkorn University, Taran participated in his first volunteer camp, *Kaihor (ค่ายหอ)*, conducted by the [Residence of Chulalongkorn University Volunteer Club](https://www.facebook.com/kaihor.chula?locale=th_TH). The camp was organized during the midterm weekend at Ban Prathet School, Prachin Buri Province, to inspire young students in rural areas as well as to recondition the school’s worn-out building. With an interest in the essence of volunteerism, Taran then began his volunteer work and took part in as many volunteer events as he could during his undergrad years. 
+
+During his sophomore year, Taran joined the Engineering Student Committee ([ESC](https://www.facebook.com/escchula?locale=th_TH)) as a core member of the CSR department. At the time, the [COVID-19](https://www.who.int/europe/emergencies/situations/covid-19) pandemic had restricted many activities; however, the team still managed to conduct multiple volunteer campaigns. The biggest project of that year was the "Kor Lamphun Camp" at Bann Kor, Lamphun Province. The camp was to provide a sufficient agricultural water management system; this was also one of [Bann Kor Sandbox](https://www.thailandnow.in.th/country-facts/the-ananda-mahidol-foundation-and-the-legacy-of-rama-the-ninth-of-thailand/)'s projects.
+
