@@ -9,6 +9,6 @@ permalink: notes/
 # Lecture Notes
 {: .no_toc }
 
-<img src="\pages\04_Notes\LectNoteCover.jpg" alt="Cover photo"/>
+<img src="\pages\04_Notes\fig\LectNoteCover.jpg" alt="Cover photo"/>
 ---
 
