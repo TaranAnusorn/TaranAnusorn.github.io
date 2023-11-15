@@ -18,7 +18,7 @@ Greetings to all visitors, and welcome to my official page. This page contains i
 
 ## Briefly about me
 
-My name is Taran Anusorn, an electrical engineering graduate from the [Department of Electrical Engineering](https://ee.eng.chula.ac.th/), [Faculty of Engineering](https://www.eng.chula.ac.th/th/), [Chulalongkorn University](https://www.chula.ac.th/en/). I'm currently pursuing a graduate degree in electrical engineering as the recipient of the [Ananda Mahidol scholarship](https://www.au.edu/royal-activities/the-anandamahidol-foundation.html).
+My name is Taran Anusorn, an electrical engineering graduate from the [Department of Electrical Engineering](https://ee.eng.chula.ac.th/), [Faculty of Engineering](https://www.eng.chula.ac.th/th/), [Chulalongkorn University](https://www.chula.ac.th/en/). I'm currently pursuing a graduate degree in electrical engineering as the recipient of the [Anandamahidol scholarship](https://www.au.edu/royal-activities/the-anandamahidol-foundation.html).
 
 ### My current research interests include:
 - Applied [Electromagnetics](https://en.wikipedia.org/wiki/Electromagnetism) and [Photonics](https://en.wikipedia.org/wiki/Photonics) in Various Systems.
