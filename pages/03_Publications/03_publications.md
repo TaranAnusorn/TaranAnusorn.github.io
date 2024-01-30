@@ -7,4 +7,8 @@ permalink: publications/
 
 # Publications
 
-_This page is under construction._
+---
+
+## International Conferences
+
+- T. Anusorn, P. Janpugdee, S. Kiravittaya and P. Sangwongngam, "Dual-Polarized Phase-Gradient Reflecting Metasurface for 5G mmWave Coverage Improvement," _2023 IEEE International Symposium On Antennas And Propagation (ISAP)_, Kuala Lumpur, Malaysia, 2023, pp. 1-2, doi: 10.1109/ISAP57493.2023.10388656. ([link](https://ieeexplore.ieee.org/document/10388656)) ([slides](/pages/03_publications/Dual-Polarized Phase-Gradient.pdf))

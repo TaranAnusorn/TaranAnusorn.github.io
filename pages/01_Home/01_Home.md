@@ -21,7 +21,7 @@ Greetings to all visitors, and welcome to my official page. This page contains i
 My name is Taran Anusorn, an electrical engineering graduate from the [Department of Electrical Engineering](https://ee.eng.chula.ac.th/), [Faculty of Engineering](https://www.eng.chula.ac.th/th/), [Chulalongkorn University](https://www.chula.ac.th/en/). I'm currently pursuing a graduate degree in electrical engineering as the recipient of the [Anandamahidol scholarship](https://www.au.edu/royal-activities/the-anandamahidol-foundation.html).
 
 ### My current research interests include:
-- Applied [Electromagnetics](https://en.wikipedia.org/wiki/Electromagnetism) and [Photonics](https://en.wikipedia.org/wiki/Photonics) in Various Systems.
+- Applications of [Electromagnetics](https://en.wikipedia.org/wiki/Electromagnetism) and [Photonics](https://en.wikipedia.org/wiki/Photonics) in Various Systems.
 - Terahertz ([THz](https://en.wikipedia.org/wiki/Terahertz_radiation)) Technology.
 - [Microwave](https://en.wikipedia.org/wiki/Microwave_engineering) and [Millimeter Wave](https://en.wikipedia.org/wiki/Extremely_high_frequency) Engineering.
 - Modern [Communication](https://en.wikipedia.org/wiki/Communications_system#:~:text=A%20communications%20system%20or%20communication,to%20form%20an%20integrated%20whole.) Systems.

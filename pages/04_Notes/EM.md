@@ -20,3 +20,11 @@ With Lorentz's force law, Maxwell's equations form the solid foundation of class
 _This section is under construction._
 
 The following notes provide summaries of some essential aspects of electromagnetic theory.
+
+### Notes in Thai _(I made them during my sophomore year)_
+
+- [Vector Analysis](/pages/04_Notes/EMfolder/EM1-VectorAnalysis.pdf)
+- [Electrostatics](/pages/04_Notes/EMfolder/EM2-Electrostatics_compressed.pdf)
+- [Steady Electric Current](/pages/04_Notes/EMfolder/EM3-SteadyElectricCurrent.pdf)
+- [Magnetostatic](/pages/04_Notes/EMfolder/EM4-Magnetostatics_compressed.pdf)
+- [Time Varying Fields](/pages/04_Notes/EMfolder/EM5-TimeVarryigFields.pdf)
