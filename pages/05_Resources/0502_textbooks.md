@@ -19,7 +19,7 @@ Here are some of my reading lists.
 
 ---
 
-## Electromagnetic Theory Books
+## Electromagnetic Books
 
 | <img src="\pages\05_Resources\EMGriffith.jpg" alt="Introduction to Electrodynamics" style="width:200px;"/> | **Introduction to Electrodynamics** by _David J. Griffiths_ |
 | <img src="\pages\05_Resources\EMSadiku.jpg" alt="Elements of Electromagnetics" style="width:200px;"/> | **Elements of Electromagnetics** by _Matthew N. O. Sadiku_ |
@@ -27,6 +27,7 @@ Here are some of my reading lists.
 | <img src="\pages\05_Resources\EMRao_fund.jpg" alt="Fundamentals of Electromagnetics for Electrical and Computer Engineering" style="width:200px;"/> | **Fundamentals of Electromagnetics for Electrical and Computer Engineering** by _Nannapaneni Naranaya Rao_ |
 | <img src="\pages\05_Resources\EMRao_elem.jpg" alt="Elements of Engineering Electromagnetics" style="width:200px;"/> | **Elements of Engineering Electromagnetics** by _Nannapaneni Naranaya Rao_ |
 | <img src="\pages\05_Resources\EMSarabandi.jpg" alt="Foundations of Applied Electromagnetics" style="width:200px;"/> | **Foundations of Applied Electromagnetics** ([free pdf](https://radlab.engin.umich.edu/stories/new-free-textbook-foundations-of-applied-electromagnetics)) by _Kamal Sarabandi_ |
+| <img src="\pages\05_Resources\EM_FDTD.jpg" alt="Numerical Electromagnetics: The FDTD Method" style="width:200px;"/> | **Numerical Electromagnetics: The FDTD Method** ([free pdf](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5)) by _Umran S. Inan_ and _Robert A. Marshall_ |
 
 ---
 
@@ -83,7 +84,7 @@ Here are some of my reading lists.
 ## Communication Systems Books
 
 | <img src="\pages\05_Resources\COMMULathi.jpg" alt="Modern Digital and Analog Communication Systems" style="width:200px;"/> | **Modern Digital and Analog Communication Systems** by _B. P. Lathi_ and _Zhi Ding_ |
-| <img src="\pages\05_Resources\MATHGarcia.jpg" alt="Fundamentals of Digital Communication" style="width:200px;"/> | **Fundamentals of Digital Communication** by _Upamanyu Madhow_ |
+| <img src="\pages\05_Resources\COMMUMadhow.jpg" alt="Fundamentals of Digital Communication" style="width:200px;"/> | **Fundamentals of Digital Communication** by _Upamanyu Madhow_ |
 | <img src="\pages\05_Resources\COMMUGallager.jpg" alt="Principles of Digital Communication" style="width:200px;"/> | **Principles of Digital Communication** by _Robert G. Gallager_ |
 | <img src="\pages\05_Resources\COMMUForouzan.jpg" alt="Data Communications and Networking" style="width:200px;"/> | **Data Communications and Networking** by _Behrouz A. Forouzan_ |
 
