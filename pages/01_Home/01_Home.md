@@ -24,6 +24,7 @@ My name is Taran Anusorn, an electrical engineering graduate from the [Departmen
 - Applications of [Electromagnetics](https://en.wikipedia.org/wiki/Electromagnetism) and [Photonics](https://en.wikipedia.org/wiki/Photonics) in Various Systems.
 - Terahertz ([THz](https://en.wikipedia.org/wiki/Terahertz_radiation)) Technology.
 - [Microwave](https://en.wikipedia.org/wiki/Microwave_engineering) and [Millimeter Wave](https://en.wikipedia.org/wiki/Extremely_high_frequency) Engineering.
+- [Active Integrated Antennas](https://ieeexplore.ieee.org/document/339741).
 - Modern [Communication](https://en.wikipedia.org/wiki/Communications_system#:~:text=A%20communications%20system%20or%20communication,to%20form%20an%20integrated%20whole.) Systems.
 
 ---
