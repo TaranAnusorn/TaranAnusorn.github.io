@@ -11,6 +11,7 @@ permalink: resources/video_lectures/
 ## Online Lectures
 
 | <img src="\pages\05_Resources\Vid_circuits.jpg" alt="Circuits and Systems" style="width:200px;"/> | **Circuits and Systems** by _Prof. Ali Hajimiri, Caltech_ ([Link](https://www.youtube.com/watch?v=i9WixHfiZPU&list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z&pp=iAQB)) |
+|<img src="\pages\05_Resources\Vid_electronics1.jpg" alt="Circuits and Systems" style="width:200px;"/> | **Razavi Electronics** by _Prof. Behzad Razavi, UCLA_ ([Link](https://youtube.com/playlist?list=PL49fdxrFnSMcL2ByH417T68RbKCElF--Z&si=-1Y7dn9wAxLCn3yA))|
 | <img src="\pages\05_Resources\Vid_analog.jpg" alt="New Analog Circuit Design" style="width:200px;"/> | **New Analog Circuit Design** by _Prof. Ali Hajimiri, Caltech_ ([Link](https://youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)) |
 | <img src="\pages\05_Resources\Vid_numer.jpg" alt="Numerical Methods for Engineers" style="width:200px;"/> | **Numerical Methods for Engineers** by _Prof. Jeffrey R. Chasnov, Hong Kong University of Science and Technology_ ([Link](https://www.youtube.com/watch?v=qFJGMBDfFMY&list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab)) |
 | <img src="\pages\05_Resources\Vid_CEM.jpg" alt="Computational Electromagnetics" style="width:200px;"/> | **Computational Electromagnetics** by _EMPossible_ ([Link](https://youtube.com/playlist?list=PLLYQF5WvJdJVmCm4cDrKmek6cDJZWVomk)) |

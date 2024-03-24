@@ -21,7 +21,7 @@ For publications:
 
 For surfing
 - [Analog Devices](https://www.analog.com/en/resources/analog-dialogue.html)
-- [Lecture Notes on Electromagnetic Field Theory by Purdue](https://engineering.purdue.edu/wcchew/ece604s19.html)
+- [Lecture Notes on Electromagnetic Field Theory (Purdue University)](https://engineering.purdue.edu/wcchew/ece604s19.html)
 - [European Space Agency](https://www.esa.int/Enabling_Support)
 - [Microwaves 101](https://www.microwaves101.com/)
 - [Antenna Theory](https://www.antenna-theory.com/)
