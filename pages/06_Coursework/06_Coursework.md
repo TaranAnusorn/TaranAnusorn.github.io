@@ -12,6 +12,27 @@ nav_order: 6
 ## Undergraduate Coursework
 B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 
+### Fall, 2023
+
+<Details>
+<summary> 2102420 Principles of Antennas </summary>
+
+* Units: 3 (3-0-6) 
+
+* Instructor: Jakapan Lee
+
+Basic definition and theory; isotropic point source;
+power and field patterns; directivity and gain; efficiency,
+polarization; input impedance and bandwidth; Friis
+transmission equation, radiation from current elements;
+ground effects; radiation properties of wire and loop
+antennas; array antenna; Yagi-Uda antenna and log-periodic
+antenna; aperture antenna; microstrip antenna; modern
+antenna for current applications; antenna characteristics
+measurement
+
+</details>
+
 |__Semester__|__Course Number__|__Course Name__|
 |Spring 2023|2102420|Principle of Antennas|
 ||2102436|Control and Instrumentation Laboratory|
