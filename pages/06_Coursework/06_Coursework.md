@@ -15,7 +15,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 ### Spring 2023
 
 <Details>
-<summary> 2102420 | Principles of Antennas </summary>
+<summary> 2102420 Principles of Antennas </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Jakapan Lee'
@@ -31,7 +31,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102436 | Control and Instrumentation Laboratory </summary>
+<summary> 2102436 Control and Instrumentation Laboratory </summary>
 {% highlight ruby %}
     Units: '1 (0-3-0)'
     Instructors: 'David Banjerdpongchai, Suchin Arunsawatwong, Manop Wongsaisuwan, Jitkomut Songsiri'
@@ -41,7 +41,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102499 | Electrical Engineering Project </summary>
+<summary> 2102499 Electrical Engineering Project </summary>
 {% highlight ruby %}
     Units: '3 (0-6-3)'
     Contents: 
@@ -50,7 +50,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102526 | Mobile Communication and Networking </summary>
+<summary> 2102526 Mobile Communication and Networking </summary>
 {% highlight ruby %}
     Units: '3 (3-0-9)'
     Instructors: 'Pasu Kaewplang, Panuwat Janpugdee, Lunchakorn Wuttisittikulkij, Chaodit Aswakul'
@@ -64,7 +64,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2110574 | Artificial Intelligence for Engineers </summary>
+<summary> 2110574 Artificial Intelligence for Engineers </summary>
 {% highlight ruby %}
     Units: '3 (3-0-9)'
     Instructors: 'CPE faculties'
@@ -78,7 +78,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 
 ### Fall 2022
 <Details>
-<summary> 2102401 | Random Processes for Electrical Engineering </summary>
+<summary> 2102401 Random Processes for Electrical Engineering </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Jitkomut Songsiri, Charnchai Pluempitiwiriyawej'
@@ -91,7 +91,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102421 | Principles of Microwave Engineering </summary>
+<summary> 2102421 Principles of Microwave Engineering </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Jakapan Lee, Panuwat Janpugdee'
@@ -107,7 +107,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102425 | Data Communications </summary>
+<summary> 2102425 Data Communications </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Chaiyachet Saivichit'
@@ -122,7 +122,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102473 | Communication Engineering Laboratory </summary>
+<summary> 2102473 Communication Engineering Laboratory </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'EE faculties'
@@ -132,7 +132,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102479 | Optical Fiber Communication </summary>
+<summary> 2102479 Optical Fiber Communication </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Duang-rudee Worasucheep'
@@ -149,7 +149,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102490 | Electrical Engineering Pre-Project </summary>
+<summary> 2102490 Electrical Engineering Pre-Project </summary>
 {% highlight ruby %}
     Units: '1 (0-2-1)'
     Instructor: 'Suwit Kiravittaya'
@@ -159,7 +159,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 5500308 | Technical Writing for Engineering </summary>
+<summary> 5500308 Technical Writing for Engineering </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Rananda Rungnaphawet'
@@ -170,7 +170,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 
 ### Summer 2022
 <Details>
-<summary> 2100301 | Engineering Practice </summary>
+<summary> 2100301 Engineering Practice </summary>
 {% highlight ruby %}
     Units: '2'
     Contents: 
@@ -180,7 +180,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 
 ### Spring 2022
 <Details>
-<summary> 2102308 | Properties of Electrical Engineering Materials </summary>
+<summary> 2102308 Properties of Electrical Engineering Materials </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Apiwat Lek-Uthai, Songphol Kanjanachuchai, Suwit Kiravittaya'
@@ -193,7 +193,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102311 | Electrical Measurement and Instrumentation </summary>
+<summary> 2102311 Electrical Measurement and Instrumentation </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Chanchana Tangwongsan, Arporn Teeramongkonrasmee'
@@ -207,7 +207,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102322 | Telecomunication Transmission </summary>
+<summary> 2102322 Telecomunication Transmission </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Pasu Kaewplang, Panuwat Janpugdee'
@@ -221,7 +221,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102386 | Electronic Circuits and Laboratory </summary>
+<summary> 2102386 Electronic Circuits and Laboratory </summary>
 {% highlight ruby %}
     Units: '4 (3-3-6)'
     Instructor: 'Cherdkul Sopavanit, Wanchalerm Pora, Bunchauy Supmonchai, Napong Panitantum'
@@ -236,7 +236,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102435 | Industrial Automation </summary>
+<summary> 2102435 Industrial Automation </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'David Banjerdpongchai'
@@ -251,7 +251,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102472 | Fundamentals of Digital Communication </summary>
+<summary> 2102472 Fundamentals of Digital Communication </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Widhyakorn Asdornwised, Lunchakorn Wuttisittikulkij'
@@ -269,7 +269,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 
 ### Fall 2021
 <Details>
-<summary> 2102333 | Linear Control Systems I and Laboratory </summary>
+<summary> 2102333 Linear Control Systems I and Laboratory </summary>
 {% highlight ruby %}
     Units: '4 (3-3-6)'
     Instructor: 'Manop Wongsaisuwan'
@@ -285,7 +285,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102360 | Electrical Power System I </summary>
+<summary> 2102360 Electrical Power System I </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Naebboon Hoonchareon, Kulyos Audomvongseree, Surachai Chaitusaney, Hadsakoon Boriphonmongkol'
@@ -297,7 +297,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102371 | Principles of Communication and Laboratory </summary>
+<summary> 2102371 Principles of Communication and Laboratory </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Nisachon Tangsangiumvisai, Lunchakorn Wuttisittikulkij, Teerapol Silawan'
@@ -310,7 +310,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102385 | Semiconductor Devices I </summary>
+<summary> 2102385 Semiconductor Devices I </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Songphol Kanjanachuchai'
@@ -324,7 +324,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102387 | Fundamentals of Digital Circuits </summary>
+<summary> 2102387 Fundamentals of Digital Circuits </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Wanchalerm Pora, Bunchauy Supmonchai, Suree Pumrin'
@@ -340,7 +340,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2207103 | Philosophy and Logic </summary>
+<summary> 2207103 Philosophy and Logic </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Arts faculty'
@@ -352,7 +352,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 
 ### Spring 2021
 <Details>
-<summary> 2102202 | Electrical Engineering Mathematics II </summary>
+<summary> 2102202 Electrical Engineering Mathematics II </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Nisachon Tangsangiumvisai'
@@ -368,7 +368,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102214 | Circuit Theory II and Laboratory </summary>
+<summary> 2102214 Circuit Theory II and Laboratory </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Naebboon Hoonchareon'
@@ -380,7 +380,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102222 | Engineering Electromagnetics </summary>
+<summary> 2102222 Engineering Electromagnetics </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructor: 'Jakapan Lee'
@@ -395,7 +395,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2102253 | Electrical Machines I and Laboratory </summary>
+<summary> 2102253 Electrical Machines I and Laboratory </summary>
 {% highlight ruby %}
     Units: '4 (3-3-6)'
     Instructors: 'Somboon Sangwongwanich, Surapong Suwankawin'
@@ -411,7 +411,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 2750178 | Lifelong Learning </summary>
+<summary> 2750178 Lifelong Learning </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'EDU faculties'
@@ -421,7 +421,7 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 <Details>
-<summary> 5500208 | Communication and Presentation Skills </summary>
+<summary> 5500208 Communication and Presentation Skills </summary>
 {% highlight ruby %}
     Units: '3 (3-0-6)'
     Instructors: 'Language institute faculties'
@@ -431,28 +431,264 @@ B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
 </details>
 
 ### Fall 2020
-|-|2102201|Electrical Engineering Matthematics I|
-||2102203|Probability and Statistics for Electrical Engineering|
-||2012209|Electrical Engineering Essentials|
-||2102213|Circuit Theory I and Laboratory|
-||2103213|Engineering Mechanics I|
-||2301207|Calculus III|
-|Summer 2020|3200106|Fundamental Oral Biology for Oral Health|
-||3404117|Introduction to Law|
-|Spring 2020|2103106|Engineering Drawing|
-||2301108|Calculus II|
-||2302127|General Chemistry|
-||2302163|General Chemistry Laboratory|
-||2304104|General Physics II|
-||2304184|General Physics Laboratory II|
-||5500112|Exoeriential English II|
-|Fall 2019|2100111|Exploring Engineering World|
-||2109101|Engineering Materials|
-||2110101|Computer Programming|
-||2301107|Calculus I|
-||2304103|General Physics I|
-||2304183|General Physics Laboratory I|
-||5500111|Experiential English I|
+<Details>
+<summary> 2102201 Electrical Engineering Matthematics I </summary>
+{% highlight ruby %}
+    Units: '3 (3-0-6)'
+    Instructor: 'Supatana Auethavekiat'
+    Contents: 
+     'First-order and higher-order ordinary differential equations; Series solutions of ordinary differential equations'
+     'Fourier series; Fourier integral and transform'
+     'Laplace transform; Partial fraction expansion; Partial differential equations'
+     'Boundary-value problem; applications in Electrical Engineering'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2102203 Probability and Statistics for Electrical Engineering </summary>
+{% highlight ruby %}
+    Units: '3 (3-0-6)'
+    Instructor: 'Chaodit Aswakul'
+    Contents: 
+     'Elements of probability: axioms of probability, conditional probability, independent events, Bayes’ theorem' 
+     'Random variables: discrete and continuous random variables, probability functions, function of r.v., expectation, variance, covariance, moments, moment generating functions, Markov’s and Chebyshev’s inequalities, the weak law of large numbers' 'Special random variables: Bernoulli, binomial, multinomial, geometric, Poisson, hypergeometric, negative binomial, uniform, normal (Gaussian), exponential, gamma, chi- square, t, F' 
+     'Sampling: sample mean, sample variance, histogram, sampling distributions from a normal population' 
+     'Parameter estimation: method of moments'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2012209 Electrical Engineering Essentials </summary>
+{% highlight ruby %}
+    Units: '3 (3-0-6)'
+    Instructors: 'EE faculties'
+    Contents: 
+     'Basic knowledge and understanding of present trends of electrical engineering technology in various fields, i.e., electrical power, electronics, control, and communication, based on which the students can grasp the whole picture of electrical engineering.' 
+     'The course is composed of lectures, hands-on laboratories in basic applications and MATLAB, and study trip. The lectures will be given by the Department staffs and invited experts from the industries, and will cover the topics ranging from basic researches to state-of-the-art technologies of each field.'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2102213 Circuit Theory I and Laboratory </summary>
+{% highlight ruby %}
+    Units: '4 (3-3-6)'
+    Instructors: 'Chanchana Tangwongsan, Thavatchai Tayjasanant, Napong Panitantum'
+    Contents: 
+     'DC concepts; Ohm’s law; Kirchhoff’s laws; Circuit components; Passive sign convention' 'Periodic functions; Sinusoidal steady state; Phasor representations; Impedances and admittances'
+     'Node and mesh analysis; superposition theorem; source transformation; Thevenin and Norton theorem; Maximum power transfer' 
+     'Phasor diagram; AC power analysis; Polyphase circuits' 
+     'Laboratories on electrical circuits and measuring equipments'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2103213 Engineering Mechanics I </summary>
+{% highlight ruby %}
+    Units: '3 (3-0-6)'
+    Instructors: 'ME faculties'
+    Contents: 
+     'Introduction to statics; Two- and three-dimensional force systems' 
+     'Equilibrium; Friction; Distributed forces; Fluid statics'
+     'Introduction to dynamics; Kinematics of particles; Kinetics of particles; Plane kinematics of rigid bodies'
+    Book:
+     'Engineering Mechanics (Hibbeler)' 
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2301207 Calculus III </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Paisan Nakmahachalasint, Khamron Mekchay, Nithi Rungtanapirom'
+    Contents: 
+     'Surfaces in three dimensional space; Polar coordinate system; Calculus of realvalued functions of several variables and its applications; Line integrals' 
+{% endhighlight %}
+</details>
+
+### Summer 2020
+<Details>
+<summary> 3200106 Fundamental Oral Biology for Oral Health </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Thantrira Porntaveetus'
+    Contents: 
+     'Development, anatomy, biochemistry, and function of gingiva, teeth, and oral environment. Dental caries and periodontal diseases. Fluoride and cavity protection. Oral hygiene routine. Dental care and tooth whitening products. Dental treatment for children, adolescences, elderly people. Tooth replacement.' 
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 3404117 Introduction to Law </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Manit Chumpa'
+    Contents: 
+     'Introduction to the study of laws; nature and sources of law, kinds and characteristics of law; the making, application, and interpretation of law and its abrogation; law of persons: natural and juristic persons; legal rights; nature and kinds of rights; rights under the Civil and Commercial Codes; other laws having economic implication, including antitrust laws and consumer protection law.' 
+{% endhighlight %}
+</details>
+
+### Spring 2020
+<Details>
+<summary> 2103106 Engineering Drawing </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Gridsada Phanomchoeng'
+    Contents: 
+     'Introduction to engineering drawing; Applied Geometry; Orthogrphic projection, writing, and reading'
+     'Dimensioning; Sectional view; Threaded fastener; Assembly drawing; AutoCAD tutorial'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2301108 Calculus II </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Kirati Sriamorn'
+    Contents: 
+     'Mathematical Induction; Sequences; Series; Power Series; Taylor Series; Maclaurin Series'
+     'Three dimensional space; Vector; Line; Plane; Vector function with limit derivative and integral; arc length'
+     'Functions of several variables; Limits and Continuity; Partial derivatives; Tangent Planes and Linear Approximations; The Chain rule; Directional Derivatives and the Gradient Vector; Maximum and Minimum Values'
+     'Double Integrals over Rectangles; Iterated Integrals; Double Integrals over General Regions'
+     'First-order differential equations:Separable Equations; Homogeneous Differential Equation; Exact Differential Equation; Integrating factor; Linear and Bernoulli Differential Equations; Applications of Differential Equations'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2302127 General Chemistry </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Nattapong Paiboonvorachat, Sakulsuk Unarunotai'
+    Contents: 
+     'Atomic structures; Chemical bonding; Periodic table; Molecular structures'
+     'Stoichiometry; States of matters; Solutions and Colloids; Thermodynamics; Chemical Equilibrium; Acid-base equilibira; Electrochemistry; Chemical kinetics; Nuclear reactions'
+    Book:
+     'Chemistry (Silberberg)'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2302163 General Chemistry Laboratory </summary>
+{% highlight ruby %}
+    Units: '1'
+    Instructors: 'Chem faculties'
+    Contents: 
+     'Qualitative analysis techniques, Graham's law of gas diffusion, structure of metals and crystals, chemical equilibrium, indicators, acid-base titrations, pH of solution and hydrolysis.'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2304104 General Physics II </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Chayanit Asawatangtrakuldee'
+    Contents: 
+     'Electrostatics; DC circuit; AC circuit; basic electronics; electromagnetic induction; physical and geometrical optics; modern physics; application of basic physics.'
+    Book:
+     'Physics for Scientists and Engineers (Jewett and Serway)'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2304184 General Physics Laboratory II </summary>
+{% highlight ruby %}
+    Units: '1'
+    Instructors: 'Physics faculties'
+    Contents: 
+     'Electrical measurement and basic electrical equipment; ammeter and voltmeter; AC circuit; semiconductor devices; lense and spherical mirror; diffraction and interference of light; polarization; radioactivity; electromagnetic induction.'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 5500112 Experiential English II </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Language institute faculties'
+    Contents: 
+     'Further practice in the four language skills for everyday communication; analyzing, synthesizing, summarizing and evaluating information from different sources; giving oral and/or written presentations.'
+{% endhighlight %}
+</details>
+
+### Fall 2019
+
+<Details>
+<summary> 2100111 Exploring Engineering World </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Engieering faculties'
+    Contents: 
+     'Engineering topics related to daily life: energy, resources, environment manufacturing, process, industry, material, automotive, infrastructure, information system and bio engineering'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2109101 Engineering Materials </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Engieering faculties'
+    Contents: 
+     'Crystal structure of solids. Crystal defects. Mechanical properties of materials.'
+     'Dislocation and strengthening mechanism of metals. Mechanical failure of materials. Phase diagram and solid state reaction. Fabrication and applications of metals.' 
+     'Structure, properties, and applications of ceramic.' 
+     'Structure, properties, and applications of polymers.'
+     'Structure, properties, and application ofcomposite materials.' 'Corrosion and degradation of materials.' 
+     'Properties and applications of electronic materials.' 
+     'Electrical properties of materials.'
+     'Magnetic properties of materials.'
+     'Innovation in material technology.'
+    Book:
+     'Materials Science and Engineering: An Introduction (Callister)'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2110101 Computer Programming </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Somchai Prasitjutrakul'
+    Contents: 
+     'Computer concepts, computer system components, hardware and softwae interaction, electronic information and data processing concepts' 
+     'Programming: data type,operators, statements, control structures; programming tools; programming styles and conventions; debugging; program design and development with applications to engineering problems using a high level language.'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2301107 Calculus I </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Kirati Sriamorn'
+    Contents: 
+     'Limit, continuity, differentiation and integration of real-valued functions of a real variable and their applications; techniques of integration; improper integrals.'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2304103 General Physics I </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Physics faculties'
+    Contents: 
+     'Basic mathematics for general physics; mechanics and its applications; gases and kinetic theory; thermodynamics; transport phenomena and heat transfer; physical properties of matter'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 2304183 General Physics Laboratory I </summary>
+{% highlight ruby %}
+    Units: '1'
+    Instructors: 'Physics faculties'
+    Contents: 
+     'Measurement and precision; statistical analysis and precision ; simple harmonic motion ; rotational motion ; wave ; sound ; heat ; fluid'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> 5500111 Experiential English I </summary>
+{% highlight ruby %}
+    Units: '3'
+    Instructors: 'Language institute faculties'
+    Contents: 
+     'Practice in the four language skills for everyday communication; comparing, analyzing, and synthesizing information from different sources; giving oral and/or written presentations'
+{% endhighlight %}
+</details>
 
 ---
 
