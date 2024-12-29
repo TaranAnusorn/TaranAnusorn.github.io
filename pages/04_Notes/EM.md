@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Electromagnetics
-parent: Notes on Selected Topics
+parent: Academic Notes
 nav_order: 1
 permalink: notes/EM
 ---

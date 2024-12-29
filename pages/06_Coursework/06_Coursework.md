@@ -9,8 +9,58 @@ nav_order: 6
 
 ---
 
+## Graduate Coursework
+MSE Electrical and Computer Engineering, The University of Texas at Austin (2024-present)
+
+### Fall 2024
+
+<Details>
+<summary> EE 383P - Ultrafast and Nonlinear Optics </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'David Burghoff'
+    Contents:
+     'Basic formalisms needed to describe ultrafast systems and nonlinear phenomena (such as the nonlinear wave equation and saturable absorption), as well as the fundamental origins of these phenomena'
+     'Methods for generating ultrafast states of light, including mode-locking, Q-switching, and novel frequency comb formation'
+     'Techniques for detecting and characterizing ultrafast sources, such as autocorrelation, FROG, and SPIDER'
+     'Important applications of ultrafast/nonlinear optical technology, including dual-comb spectroscopy, lidar, terahertz generation, and attosecond science'
+    Books:
+     'Nonlinear Optics (Boyd)'
+     'Ultrafast Optics (Weiner)'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> EE 384N - Acoustics I </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Mark F. Hamilton'
+    Contents:
+     'General theory of waves; transient and steady-state disturbances; reflection and transmission at interfaces; impedance terminations'
+     'Lumped-element approximations; barriers; normal modes of strings membranes, and enclosures; horns'
+     'Stratified media; ray theory; introduction to attenuation and dispersion due to viscosity, heat conduction, and relaxation'
+    Books:
+     'Fundamentals of Physical Acoustics (Blackstock)'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> EE 396V - Advanced Semiconductor Nanotechnology </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Xiuling Li'
+    Contents:
+     'Introduction of nanotechnology and formation of nanotechnology building blocks'
+     'Characterization of nanotechnology building blocks'
+     'Nano-devices'
+     'Nano-systems and manufacturing'
+{% endhighlight %}
+</details>
+
+---
+
 ## Undergraduate Coursework
-B.Eng. Electrical Engineering Chulalongkorn University (2019-2023)
+B.Eng. Electrical Engineering, Chulalongkorn University (2019-2023)
 
 ### Spring 2023
 

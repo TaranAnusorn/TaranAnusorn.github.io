@@ -18,14 +18,14 @@ Greetings to all visitors, and welcome to my official page. This page contains i
 
 ## Briefly about me
 
-My name is Taran Anusorn, an electrical engineering graduate from the [Department of Electrical Engineering](https://ee.eng.chula.ac.th/), [Faculty of Engineering](https://www.eng.chula.ac.th/th/), [Chulalongkorn University](https://www.chula.ac.th/en/). I'm currently pursuing a graduate degree in electrical engineering as the recipient of the [Anandamahidol scholarship](https://www.au.edu/royal-activities/the-anandamahidol-foundation.html).
+My name is Taran Anusorn, an electrical engineering graduate from the [Department of Electrical Engineering](https://ee.eng.chula.ac.th/), [Faculty of Engineering](https://www.eng.chula.ac.th/th/), [Chulalongkorn University](https://www.chula.ac.th/en/). I'm currently pursuing the M.S. degree in [electrical and computer engineering](https://www.ece.utexas.edu/) with [The University of Texas at Austin](https://www.utexas.edu/) as the recipient of the [Anandamahidol scholarship](https://www.au.edu/royal-activities/the-anandamahidol-foundation.html).
 
-### My current research interests include:
-- Applications of [Electromagnetics](https://en.wikipedia.org/wiki/Electromagnetism) and [Photonics](https://en.wikipedia.org/wiki/Photonics) in Various Systems.
-- Terahertz ([THz](https://en.wikipedia.org/wiki/Terahertz_radiation)) Technology.
-- [Microwave](https://en.wikipedia.org/wiki/Microwave_engineering) and [Millimeter Wave](https://en.wikipedia.org/wiki/Extremely_high_frequency) Engineering.
-- [Active Integrated Antennas](https://ieeexplore.ieee.org/document/339741).
-- Modern [Communication](https://en.wikipedia.org/wiki/Communications_system#:~:text=A%20communications%20system%20or%20communication,to%20form%20an%20integrated%20whole.) Systems.
+### Current research interests
+I have a broad research interest in the design of [millimeter-wave](https://en.wikipedia.org/wiki/Extremely_high_frequency) and [terahertz](https://en.wikipedia.org/wiki/Terahertz_radiation) components and systems for modern [communication](https://en.wikipedia.org/wiki/Communications_system#:~:text=A%20communications%20system%20or%20communication,to%20form%20an%20integrated%20whole.) and [sensing](https://en.wikipedia.org/wiki/Sensor) applications, including: 
+ - [Adaptive RF front-end solutions](https://www.darpa.mil/research/programs/adaptive-rf-technologies), miniaturized [microwave](https://en.wikipedia.org/wiki/Microwave_engineering) components 
+ - [On-chip antennas](https://www.raypcb.com/chip-antenna/)
+ - [RF MEMS](https://en.wikipedia.org/wiki/Radio-frequency_microelectromechanical_system)
+ - [RF photonic](https://photonicsmanufacturing.org/sites/default/files/documents/rfphotonics_ipsr-i_2020.pdf) devices and [microsystems](https://en.wikipedia.org/wiki/MEMS)
 
 ---
 

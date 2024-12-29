@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microwave Engineering
-parent: Notes on Selected Topics
+parent: Academic Notes
 nav_order: 2
 permalink: notes/Microwave
 ---
