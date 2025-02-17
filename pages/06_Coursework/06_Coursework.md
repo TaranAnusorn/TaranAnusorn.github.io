@@ -12,6 +12,20 @@ nav_order: 6
 ## Graduate Coursework
 MSE Electrical and Computer Engineering, The University of Texas at Austin (2024-present)
 
+### Spring 2024
+
+<Details>
+<summary> ECE 382M - Analog Integrated Circuit Design </summary>
+</details>
+
+<Details>
+<summary> ECE 383V - Microwave and Radio Frequency Engineering </summary>
+</details>
+
+<Details>
+<summary> ECE 396V - Quantum Theory of Electronic Materials </summary>
+</details>
+
 ### Fall 2024
 
 <Details>
