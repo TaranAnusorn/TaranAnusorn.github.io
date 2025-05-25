@@ -16,14 +16,55 @@ MSE Electrical and Computer Engineering, The University of Texas at Austin (2024
 
 <Details>
 <summary> ECE 382M - Analog Integrated Circuit Design </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Yaoyao Jia'
+    Contents:
+     'CMOS technology and device models; Frequency responses and Parasitic effects; Electronic noise'
+     'Single‐stage amplifiers; '
+     'Impedance Matching with Lumped and Distributed Elements; Current mirrors, active loads'
+     'Differential pairs; Operational transconductance amplifiers (OTAs)'
+     'Feedback, stability and compensation; Temperature and supply independent biasing'
+     'CAD tools for circuit analysis and design'
+    Books:
+     'Analysis and Design of Analog Integrated Circuits (Lewis, Gray, Meyer, Hurst)'
+     'Design of Analog CMOS Integrated Circuits (Razavi)'
+{% endhighlight %}
 </details>
 
 <Details>
 <summary> ECE 383V - Microwave and Radio Frequency Engineering </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Ruochen Lu'
+    Contents:
+     'Plane Waves, Transmission Lines, Smith Chart'
+     'Matrix Representation and Analysis of Microwave Networks'
+     'Impedance Matching with Lumped and Distributed Elements'
+     'Computer-Aided Analysis and Design'
+     'Microwave Filters and Frequency Response Synthesis'
+     'Circuits for Adding, Dividing, and Coupling Microwave Signals'
+    Book:
+     'Microwave Engineering (Pozar)'
+{% endhighlight %}
 </details>
 
 <Details>
 <summary> ECE 396V - Quantum Theory of Electronic Materials </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Jean Anne Incorvia'
+    Contents:
+     'Experimental Basis for Quantum Mechanics; Wave Particle Duality and Uncertainty Principle'
+     'Schrodinger Formulation of Quantum Mechanics'
+     'Atoms and Molecules; Statistical Mechanics and Applications; Quantum Theory of Solids; Semiconductors'
+     'Quantum Computing and Applications.'
+    Books:
+     'Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles (R. Eisberg and R. Resnickd)'
+     'Introduction to Quantum Mechanics (D. J. Griffiths and D. F. Schroeter)'
+     'Solid State Physics for Engineering and Materials Science (J. P. McKelvey)'
+     'Principles of Quantum Computation and Information: A Comprehensive Textbook (G. Benenti, G. Casati, D. Rossini, and G. Strini)'
+{% endhighlight %}
 </details>
 
 ### Fall 2024
@@ -53,7 +94,7 @@ MSE Electrical and Computer Engineering, The University of Texas at Austin (2024
      'General theory of waves; transient and steady-state disturbances; reflection and transmission at interfaces; impedance terminations'
      'Lumped-element approximations; barriers; normal modes of strings membranes, and enclosures; horns'
      'Stratified media; ray theory; introduction to attenuation and dispersion due to viscosity, heat conduction, and relaxation'
-    Books:
+    Book:
      'Fundamentals of Physical Acoustics (Blackstock)'
 {% endhighlight %}
 </details>
