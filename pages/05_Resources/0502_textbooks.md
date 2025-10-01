@@ -26,9 +26,9 @@ Here are some from my 'bookshelf'.
 | <img src="\pages\05_Resources\EMCheng.jpg" alt="Field and Wave Electromagnetics" style="width:200px;"/> | **Field and wave electromagnetics** by _David K. Cheng_ |
 | <img src="\pages\05_Resources\EMRao_fund.jpg" alt="Fundamentals of Electromagnetics for Electrical and Computer Engineering" style="width:200px;"/> | **Fundamentals of Electromagnetics for Electrical and Computer Engineering** by _Nannapaneni Naranaya Rao_ |
 | <img src="\pages\05_Resources\EMRao_elem.jpg" alt="Elements of Engineering Electromagnetics" style="width:200px;"/> | **Elements of Engineering Electromagnetics** by _Nannapaneni Naranaya Rao_ |
-| <img src="\pages\05_Resources\EMSarabandi.jpg" alt="Foundations of Applied Electromagnetics" style="width:200px;"/> | **Foundations of Applied Electromagnetics** ([free pdf](https://radlab.engin.umich.edu/stories/new-free-textbook-foundations-of-applied-electromagnetics)) by _Kamal Sarabandi_ |
+| <img src="\pages\05_Resources\EMSarabandi.jpg" alt="Foundations of Applied Electromagnetics" style="width:200px;"/> | **Foundations of Applied Electromagnetics** ([free pdf](https://radlab.engin.umich.edu/stories/new-free-textbook-foundations-of-applied-electromagnetics){: target="_blank"}) by _Kamal Sarabandi_ |
 | <img src="\pages\05_Resources\EMJMJin.jpg" alt="Theory and Computation of Electromagnetic Fields" style="width:200px;"/> | **Theory and Computation of Electromagnetic Fields** by _Jian-Ming Jin_ |
-| <img src="\pages\05_Resources\EM_FDTD.jpg" alt="Numerical Electromagnetics: The FDTD Method" style="width:200px;"/> | **Numerical Electromagnetics: The FDTD Method** ([free pdf](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5)) by _Umran S. Inan_ and _Robert A. Marshall_ |
+| <img src="\pages\05_Resources\EM_FDTD.jpg" alt="Numerical Electromagnetics: The FDTD Method" style="width:200px;"/> | **Numerical Electromagnetics: The FDTD Method** ([free pdf](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5){: target="_blank"}) by _Umran S. Inan_ and _Robert A. Marshall_ |
 
 ---
 
@@ -43,7 +43,7 @@ Here are some from my 'bookshelf'.
 ## Microwave/RF Books
 
 | <img src="\pages\05_Resources\RFPozar.jpg" alt="Microwave Engineering" style="width:200px;"/> | **Microwave Engineering** by _David M. Pozar_ |
-| <img src="\pages\05_Resources\RFSteer.jpg" alt="Fundamentals of Microwave and RF Design" style="width:200px;"/> | **Fundamentals of Microwave and RF Design** ([free pdf](https://uncpress.org/book/9781469656885/fundamentals-of-microwave-and-rf-design/)) by _Michael Steer_ | 
+| <img src="\pages\05_Resources\RFSteer.jpg" alt="Fundamentals of Microwave and RF Design" style="width:200px;"/> | **Fundamentals of Microwave and RF Design** ([free pdf](https://uncpress.org/book/9781469656885/fundamentals-of-microwave-and-rf-design/){: target="_blank"}) by _Michael Steer_ | 
 | <img src="\pages\05_Resources\RFBowick.jpg" alt="RF Circuit Design" style="width:200px;"/> | **RF Circuit Design** by _Christopher Bowick_ |
 | <img src="\pages\05_Resources\RFRazavi.jpg" alt="RF Microelectronics" style="width:200px;"/> | **RF Microelectronics** by _Behzad Razavi_ |
 | <img src="\pages\05_Resources\RFLeePlanar.jpg" alt="Planar Microwave Engineering" style="width:200px;"/> | **Planar Microwave Engineering** by _Thomas H. Lee_ |

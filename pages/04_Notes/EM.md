@@ -23,8 +23,8 @@ The following notes provide summaries of some essential aspects of electromagnet
 
 ### Notes in Thai _(I made them during my sophomore year)_
 
-- [Vector Analysis](/pages/04_Notes/EMfolder/EM1-VectorAnalysis.pdf)
-- [Electrostatics](/pages/04_Notes/EMfolder/EM2-Electrostatics_compressed.pdf)
-- [Steady Electric Current](/pages/04_Notes/EMfolder/EM3-SteadyElectricCurrent.pdf)
-- [Magnetostatic](/pages/04_Notes/EMfolder/EM4-Magnetostatics_compressed.pdf)
-- [Time Varying Fields](/pages/04_Notes/EMfolder/EM5-TimeVarryigFields.pdf)
+- [Vector Analysis](/pages/04_Notes/EMfolder/EM1-VectorAnalysis.pdf){: target="_blank"}
+- [Electrostatics](/pages/04_Notes/EMfolder/EM2-Electrostatics_compressed.pdf){: target="_blank"}
+- [Steady Electric Current](/pages/04_Notes/EMfolder/EM3-SteadyElectricCurrent.pdf){: target="_blank"}
+- [Magnetostatic](/pages/04_Notes/EMfolder/EM4-Magnetostatics_compressed.pdf){: target="_blank"}
+- [Time Varying Fields](/pages/04_Notes/EMfolder/EM5-TimeVaryingFields.pdf){: target="_blank"}

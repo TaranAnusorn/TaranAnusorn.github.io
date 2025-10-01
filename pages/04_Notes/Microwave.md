@@ -73,7 +73,7 @@ Besides the mentioned components, there are many other important microwave compo
 
 The components in microwave systems can be classified into two classes: **passive** and **active**. The passive components are those that require no power supplies for their operation, and the active components are vice versa.
 
-*See [this](https://www.analog.com/en/resources/analog-dialogue/articles/rf-signal-chain-discourse-part-2-essential-building-blocks.html#author) and [this](https://www.pasternack.com/pages/rf-microwave-and-millimeter-wave-products/block-diagrams.html) for some RF system block diagrams.*
+*See [this](https://www.analog.com/en/resources/analog-dialogue/articles/rf-signal-chain-discourse-part-2-essential-building-blocks.html#author){: target="__blank"} and [this](https://www.pasternack.com/pages/rf-microwave-and-millimeter-wave-products/block-diagrams.html){: target="__blank"} for some RF system block diagrams.*
 
 ---
 ## Underlying Physics

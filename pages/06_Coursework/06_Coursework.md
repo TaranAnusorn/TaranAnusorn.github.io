@@ -12,7 +12,45 @@ nav_order: 6
 ## Graduate Coursework
 MSE Electrical and Computer Engineering, The University of Texas at Austin (2024-present)
 
-### Spring 2024
+### Fall 2025
+
+<Details>
+<summary> ECE 396K - Ultra-Large-Scale Integration Techniques </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Sanjay Banerjee'
+    Contents:
+     'Semiconductor review and survey of IC processing; Silicon crystal growth and wafer preparation'
+     'Oxidation; Doping techniques: diffusion, ion implantation'
+     'Deposited thin films: polysilicon, silicon dioxide, silicon nitride, metals, silicides'
+     'Metallization and contacts; Epitaxial growth; Lithography: optical, electron beam, X-ray'
+     'Etching techniques: wet chemical, dry plasma; Yield considerations and contamination'
+    Books:
+     'Integrated Circuit Fabrication (Plummer and Griffin)'
+{% endhighlight %}
+</details>
+
+<Details>
+<summary> ME 397 - Microelectronics Packaging & Thermal Management </summary>
+{% highlight ruby %}
+    Credit hours: '3'
+    Instructor: 'Vaibhav Bahadur'
+    Contents:
+     'Overview of semiconductor fabrication; Microelectronics packaging techniques (Traditional, Heterogeneous Integration etc.)'
+     'Thermomechanical issues in packaging; Reliability-related aspects in packaging; Thermal management challenges'
+     'Conduction-based cooling; Air and liquid cooling; Phase change-based cooling; Role of packaging materials'
+     'Challenges and solutions at multiple length scales, from transistors (nanometers) to data centers (10’s of meters)'
+    Books:
+     'Fundamentals of Device and Systems Packaging (Tummala)'
+     'Chiplet Design and Heterogeneous Integration Packaging (Lau)'
+     '3D Microelectronics Packaging: From Architectures to Applications (Li and Goyal)'
+     'Thermal Management of Electronics (Shabany)'
+     'Heat Transfer (Mills)'
+     'A Heat Transfer Textbook (Lienhard IV and Lienhard V)'
+{% endhighlight %}
+</details>
+
+### Spring 2025
 
 <Details>
 <summary> ECE 382M - Analog Integrated Circuit Design </summary>
