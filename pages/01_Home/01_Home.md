@@ -12,7 +12,7 @@ permalink: /
 
 Greetings to all visitors, and welcome to my official page. This page contains information about my past and present, both works and interests. 
 
-[My Curriculum Vitae](/pages/01_Home/CCV-Taran-Oct2025.pdf){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
+[My Curriculum Vitae](/pages/01_Home/CV-Taran-Oct2025.pdf){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -22,7 +22,7 @@ My name is Taran Anusorn, an electrical engineering graduate from the [Departmen
 
 ### Current research interests
 I have a broad research interest in advancing next-generation [communication](https://en.wikipedia.org/wiki/Communications_system#:~:text=A%20communications%20system%20or%20communication,to%20form%20an%20integrated%20whole.){: target="_blank"} and [sensing](https://en.wikipedia.org/wiki/Sensor){: target="_blank"} technologies through innovative radio frequency (RF) and microwave [front-end](https://en.wikipedia.org/wiki/RF_front_end){: target="_blank"} solutions:
- - [Heterogeneously Integrated](https://eps.ieee.org/technology/heterogeneous-integration-roadmap.html){: target="_blank"} [RF](https://en.wikipedia.org/wiki/Radio_frequency){: target="_blank"}/[mmW]{https://en.wikipedia.org/wiki/Extremely_high_frequency}{: target="_blank"}/[THz](https://en.wikipedia.org/wiki/Terahertz_radiation){: target="_blank"} Systems
+ - [Heterogeneously Integrated](https://eps.ieee.org/technology/heterogeneous-integration-roadmap.html){: target="_blank"} [RF](https://en.wikipedia.org/wiki/Radio_frequency){: target="_blank"}/[mmW](https://en.wikipedia.org/wiki/Extremely_high_frequency){: target="_blank"}/[THz](https://en.wikipedia.org/wiki/Terahertz_radiation){: target="_blank"} Systems
  - [CMOS+X](https://e3s-center.berkeley.edu/wp-content/uploads/2022/01/CMOSX-report-Final-small.pdf){: target="_blank"} RF [ASICs](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){: target="_blank"}
  - [RF acoustics](https://sites.utexas.edu/ruochen/){: target="_blank"} and [RF MEMS](https://en.wikipedia.org/wiki/Radio-frequency_microelectromechanical_system){: target="_blank"}
  - [3D-printable](https://en.wikipedia.org/wiki/3D_printing){: target="_blank"} RF passive devices
