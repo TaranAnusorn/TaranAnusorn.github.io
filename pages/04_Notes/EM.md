@@ -8,6 +8,9 @@ permalink: notes/EM
 
 # Electromagnetics
 {: .no_toc}
+<img src="\pages\04_Notes\fig\The-Science-Behind-Electromagnets.jpg" alt="EM Graphic"/>
+
+{: .fs-3 .fw-300 }
 
 Electromagnetics is a branch of study in physics that describes the interaction of things with electricity and magnetism.
 Initially, the subjects of electricity and magnetism were completely separate. However, Ørsted, Ampère, and

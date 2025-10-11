@@ -89,7 +89,25 @@ _This section is under construction._
 ---
 ## Mathematical "Magic" Tools
 ### The Smith Chart
+_This section is under construction._
 
 ### Network Analysis
+_This section is under construction._
 
-### 
+---
+## Lecture Notes from UT Austin
+The following notes were from ECE383V--Microwave and RF Engineering taught by Dr. Ruochen Lu in Spring 2025.
+
+- [Connections between Electromagnetics and Circuits](\pages\04_Notes\MicrowaveFolder\ECE383V-01Circuit+EM.pdf){: target="_blank"}
+
+- [Transmission Line Essentials](\pages\04_Notes\MicrowaveFolder\ECE383V-02TL+Reflections.pdf){: target="_blank"}
+
+- [Power Flow in Transmission Lines and Smith Chart](\pages\04_Notes\MicrowaveFolder\ECE383V-03PowerFlow+SmithChart.pdf){: target="_blank"}
+
+- [Microwave Networks](\pages\04_Notes\MicrowaveFolder\ECE383V-04Network.pdf){: target="_blank"}
+
+- [Impedance Matching Techniques](\pages\04_Notes\MicrowaveFolder\ECE383V-05ImpedanceMatching.pdf){: target="_blank"}
+
+- [Microwave Filters](\pages\04_Notes\MicrowaveFolder\ECE383V-06Filter.pdf){: target="_blank"}
+
+- [Power Dividers and Directional Couplers (plus Noises)](\pages\04_Notes\MicrowaveFolder\ECE383V-07PD+Coupler.pdf){: target="_blank"}
