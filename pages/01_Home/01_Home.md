@@ -12,7 +12,7 @@ permalink: /
 
 Greetings to all visitors, and welcome to my official page. This page contains information about my past and present, both works and interests. 
 
-[My Curriculum Vitae](/pages/01_Home/CV-Taran-Oct2025.pdf){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
+[My Curriculum Vitae](/pages/01_Home/CV-TaranAnusorn.pdf){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
