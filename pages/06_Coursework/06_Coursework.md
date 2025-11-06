@@ -108,7 +108,7 @@ MSE Electrical and Computer Engineering, The University of Texas at Austin (2024
 ### Fall 2024
 
 <Details>
-<summary> EE 383P - Ultrafast and Nonlinear Optics </summary>
+<summary> ECE 383P - Ultrafast and Nonlinear Optics </summary>
 {% highlight ruby %}
     Credit hours: '3'
     Instructor: 'David Burghoff'
@@ -124,7 +124,7 @@ MSE Electrical and Computer Engineering, The University of Texas at Austin (2024
 </details>
 
 <Details>
-<summary> EE 384N - Acoustics I </summary>
+<summary> ECE 384N - Acoustics I </summary>
 {% highlight ruby %}
     Credit hours: '3'
     Instructor: 'Mark F. Hamilton'
@@ -138,7 +138,7 @@ MSE Electrical and Computer Engineering, The University of Texas at Austin (2024
 </details>
 
 <Details>
-<summary> EE 396V - Advanced Semiconductor Nanotechnology </summary>
+<summary> ECE 396V - Advanced Semiconductor Nanotechnology </summary>
 {% highlight ruby %}
     Credit hours: '3'
     Instructor: 'Xiuling Li'
