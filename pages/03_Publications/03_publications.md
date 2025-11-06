@@ -7,6 +7,8 @@ permalink: publications/
 
 # Publications
 
+<img src="\pages\03_Publications\cover.jpg" alt="Cover photo"/>
+
 [Google Scholar](https://scholar.google.com/citations?user=ovCpHY8AAAAJ&hl=en){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 [IEEE Xplore](https://ieeexplore.ieee.org/author/814855922553544){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 [ResearchGate](https://www.researchgate.net/scientific-contributions/Taran-Anusorn-2272092444){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }

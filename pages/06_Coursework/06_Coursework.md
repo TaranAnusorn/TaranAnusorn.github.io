@@ -6,6 +6,16 @@ nav_order: 6
 ---
 
 # Coursework
+{: .no_toc}
+
+<img src="\pages\06_Coursework\cover.jpg" alt="Cover photo: UT tower 2024"/>
+
+---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
