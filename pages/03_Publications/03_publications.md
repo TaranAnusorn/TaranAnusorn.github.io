@@ -16,9 +16,9 @@ permalink: publications/
 ---
 
 ## Journal Articles
-- <u>T. Anusorn</u>, O. Barrera, J. Kramer, I. Anderson, Z. Yao, V. Chulukhadze, and R. Lu, __"Practical Demonstrations of FR3-Band Thin-Film Lithium Niobate Acoustic Filter Design
-"__ (_Submitted to IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control_; [arXiv](https://arxiv.org/abs/2505.18388){: target="__blank"}).
-- O. Barrera, <u>T. Anusorn</u>, S. Cho, J. Kramer, V. Chulukhadze, T. -H. Hsu, J. Campbell, I. Anderson, and R. Lu, __"Frequency and Bandwidth Design Toward Millimeter-Wave Thin-Film Lithium Niobate Acoustic Filters,"__ _IEEE Microwave and Wireless Technology Letters_, doi: [10.1109/LMWT.2025.3559400](https://ieeexplore.ieee.org/document/10989534){: target="__blank"}.
+
+- <u>T. Anusorn</u>, O. Barrera, J. Kramer, I. Anderson, Z. Yao, V. Chulukhadze, and R. Lu, __"Practical Demonstrations of FR3-Band Thin-Film Lithium Niobate Acoustic Filter Design,"__ _IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control_, 2025, doi: [10.1109/TUFFC.2025.3632215](https://doi.org/10.1109/TUFFC.2025.3632215){: target="__blank"}.
+- O. Barrera, <u>T. Anusorn</u>, S. Cho, J. Kramer, V. Chulukhadze, T. -H. Hsu, J. Campbell, I. Anderson, and R. Lu, __"Frequency and Bandwidth Design Toward Millimeter-Wave Thin-Film Lithium Niobate Acoustic Filters,"__ _IEEE Microwave and Wireless Technology Letters_, vol. 35, no. 6, pp. 796-799, June 2025, doi: [10.1109/LMWT.2025.3559400](https://ieeexplore.ieee.org/document/10989534){: target="__blank"}.
 - <u>T. Anusorn</u>, S. Korananan, P. Janpugdee, and D. Torrungrueng, __"Compact CCITL-Inspired Power Dividers Using Multi-section Transmission Lines,"__ _International Journal of RF and Microwave Computer-Aided Engineering_, vol. 2024, no. 1, 2024, doi: [10.1155/mmce/2587550](https://onlinelibrary.wiley.com/doi/full/10.1155/mmce/2587550){: target="__blank"}.
 - <u>T. Anusorn</u>, K. Sukpreecha, S. Kawdungta, P. Janpugdee, and D. Torrungrueng, __"Parameter Extraction of Asymmetric Reciprocal Transmission Lines (ARTLs) From Scattering Parameters With Transmission-Line-Based Analyses of Differential Antennas,"__ _IEEE Access_, vol. 12, pp. 141052-141063, 2024, doi: [10.1109/ACCESS.2024.3466300](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10689400){: target="__blank"}.
 
